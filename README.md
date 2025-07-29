@@ -35,7 +35,7 @@ NEWS_API_KEY=your_newsapi_key
 TMDB_API_KEY=your_tmdb_api_key
 
 
-⚠️ Note: Never commit your .env.local file to version control. It contains sensitive credentials.
+⚠️ Note: Never commit your .env file to version control. It contains sensitive credentials.
 
 4. Run the development server
 Copy
